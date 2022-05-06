@@ -1,0 +1,6 @@
+db/
+target/
+bin/
+logs/
+.idea/
+cron.iml
